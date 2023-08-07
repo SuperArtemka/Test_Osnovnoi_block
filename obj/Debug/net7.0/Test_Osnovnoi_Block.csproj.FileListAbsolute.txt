@@ -1,0 +1,15 @@
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\bin\Debug\net7.0\Test_Osnovnoi_Block.exe
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\bin\Debug\net7.0\Test_Osnovnoi_Block.deps.json
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\bin\Debug\net7.0\Test_Osnovnoi_Block.runtimeconfig.json
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\bin\Debug\net7.0\Test_Osnovnoi_Block.dll
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\bin\Debug\net7.0\Test_Osnovnoi_Block.pdb
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\Test_Osnovnoi_Block.csproj.AssemblyReference.cache
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\Test_Osnovnoi_Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\Test_Osnovnoi_Block.AssemblyInfoInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\Test_Osnovnoi_Block.AssemblyInfo.cs
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\Test_Osnovnoi_Block.csproj.CoreCompileInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\Test_Osnovnoi_Block.dll
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\refint\Test_Osnovnoi_Block.dll
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\Test_Osnovnoi_Block.pdb
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\Test_Osnovnoi_Block.genruntimeconfig.cache
+C:\Users\Artemka\Desktop\Разработчик\Test_Osnovnoi_Block\obj\Debug\net7.0\ref\Test_Osnovnoi_Block.dll
